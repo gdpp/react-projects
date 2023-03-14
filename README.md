@@ -91,6 +91,7 @@ Here's the table of the projects stored in this repo, the projects are organized
 | 1. Monster Rolodex. | 1-Beginner |
 | 2. Counter App      | 1-Beginner |
 | 3. Gif Library      | 1-Beginner |
+| 4. Hooks App        | 1-Beginner |
 
 <!-- You can check the projects in the next link -->
 
