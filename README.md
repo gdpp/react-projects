@@ -57,6 +57,8 @@ React is a library declarative and efficient
 
 **1.- React Router**
 
+-   ReactRouter V6
+
 **2.- Server Side Rendering (SSR)**
 
 -   NextJs
@@ -69,7 +71,7 @@ React is a library declarative and efficient
 
 **4.- Http**
 
--   Apollo/GrapQl
+-   Apollo/GraphQl
 -   Axios/Http
 -   ReactQuery/Http
 
@@ -86,15 +88,14 @@ React is a library declarative and efficient
 
 Here's the table of the projects stored in this repo, the projects are organized based on the knowledge of topics required to complete them.
 
-| Name                | Tier       |
-| ------------------- | ---------- |
-| 1. Monster Rolodex. | 1-Beginner |
-| 2. Counter App      | 1-Beginner |
-| 3. Gif Library      | 1-Beginner |
-| 4. Hooks App        | 1-Beginner |
+| Name                   | Tier           |
+| ---------------------- | -------------- |
+| 1. Monster Rolodex.    | 1-Beginner     |
+| 2. Counter App         | 1-Beginner     |
+| 3. Gif Library         | 1-Beginner     |
+| 4. Hooks App           | 1-Beginner     |
+| 5. Hooks Examples      | 1-Beginner     |
+| 6. Tasks App           | 1-Beginner     |
+| 7. React Crash Project | 2-Intermediate |
 
-<!-- You can check the projects in the next link -->
-
-Enjoy It.
-
-Gdpp :)
+Gdpp
