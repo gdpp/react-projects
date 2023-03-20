@@ -97,6 +97,7 @@ Here's the table of the projects stored in this repo, the projects are organized
 | 5. Hooks Examples     | 1-Beginner     |
 | 6. Tasks App          | 1-Beginner     |
 | 7. Wheater App        | 1-Beginner     |
+| 8. BookStore App      | 1-Beginner     |
 | . React Crash Project | 2-Intermediate |
 
 Gdpp
