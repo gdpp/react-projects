@@ -8,81 +8,26 @@ This repository contains the combinations of [Complete React Developer Zero To M
 
 React is a library declarative and efficient
 
-**1.- Js Concepts.**
+### Temary
 
--   Arrays.
--   Objets.
--   `this` keyword.
--   Reference passing.
--   DOM.
--   Events.
--   Async Js.
+| Section                  | Topics                                                                                                                  |
+| ------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
+| **1.- Js Concepts.**     | Arrays, Objets, `this` keyword, Reference passing, DOM, Events and Async Js.                                            |
+| **2.- React Basics.**    | Vite, Jsx, Events, Components, Props, State, Lifecycle, Conditional rendering and Basic hooks                           |
+| **3.- React Advanced**   | Context, Refs, UseMemo, UseReducer, Custom Hooks, HTTP Requests, High Order Components (HOC), Portals and Strict Typing |
+| **4.- Testing**          | React Testing library and Jest                                                                                          |
+| **5.- State Management** | Redux, Zustand                                                                                                          |
 
-**2.- React Basics.**
+### React Ecosystem
 
--   Create react app
--   Vite
--   Jsx
--   Events
--   Components
--   Props
--   State
--   Lifecycle
--   Conditional rendering
--   Basic hooks
-
-**3.- React Advanced**
-
--   Context
--   Refs
--   UseMemo
--   UseReducer
--   Custom Hooks
--   HTTP Requests
--   High Order Components (HOC)
--   Portals
--   Strict Typing
-
-**4.- Testing**
-
--   React Testing library
--   Jest
-
-**5.- State Management**
-
--   Redux
--   Zustand
-
-## React Ecosystem
-
-**1.- React Router**
-
--   ReactRouter V6
-
-**2.- Server Side Rendering (SSR)**
-
--   NextJs
-
-**3.- Static Site Generator (SSG)**
-
--   Gatsby
--   Astro
--   Next.js
-
-**4.- Http**
-
--   Apollo/GraphQl
--   Axios/Http
--   ReactQuery/Http
-
-**5.-Css**
-
--   Style Components/CSS in JS
--   Material UI
-
-**6.- Mobile Apps**
-
--   React Native
+| Section                             | Topics                                         |
+| ----------------------------------- | ---------------------------------------------- |
+| **1.- React Router**                | ReactRouter V6                                 |
+| **2.- Server Side Rendering (SSR)** | NextJs                                         |
+| **3.- Static Site Generator (SSG)** | Gatsby, Astro and Next.js                      |
+| **4.- Http**                        | Apollo/GraphQl, Axios/Http and ReactQuery/Http |
+| **5.-Css**                          | Style Components, CSS in JS and Material UI    |
+| **6.- Mobile Apps**                 | React Native                                   |
 
 ## Projects
 
