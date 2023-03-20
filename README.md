@@ -33,16 +33,16 @@ React is a library declarative and efficient
 
 Here's the table of the projects stored in this repo, the projects are organized based on the knowledge of topics required to complete them.
 
-| Name                   | Tier           |
-| ---------------------- | -------------- |
-| 1. Monster Rolodex.    | 1-Beginner     |
-| 2. Counter App.        | 1-Beginner     |
-| 3. Gif Library.        | 1-Beginner     |
-| 4. Hooks App.          | 1-Beginner     |
-| 5. Hooks Examples.     | 1-Beginner     |
-| 6. Tasks App.          | 1-Beginner     |
-| 7. Wheater App.        | 1-Beginner     |
-| 8. BookStore App.      | 1-Beginner     |
-| . React Crash Project. | 2-Intermediate |
+| Name                    | Tier           |
+| ----------------------- | -------------- |
+| 1. Monster Rolodex.     | 1-Beginner     |
+| 2. Counter App.         | 1-Beginner     |
+| 3. Gif Library.         | 1-Beginner     |
+| 4. Hooks App.           | 1-Beginner     |
+| 5. Hooks Examples.      | 1-Beginner     |
+| 6. Tasks App.           | 1-Beginner     |
+| 7. Wheater App.         | 1-Beginner     |
+| 8. BookStore App.       | 1-Beginner     |
+| 9. React Crash Project. | 2-Intermediate |
 
 Gdpp
