@@ -44,5 +44,6 @@ Here's the table of the projects stored in this repo, the projects are organized
 | 7. Wheater App.         | 1-Beginner     |
 | 8. BookStore App.       | 1-Beginner     |
 | 9. React Crash Project. | 2-Intermediate |
+| 10. Heroes App.         | 2-Intermediate |
 
 Gdpp
