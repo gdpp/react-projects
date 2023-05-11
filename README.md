@@ -46,5 +46,6 @@ Here's the table of the projects stored in this repo, the projects are organized
 | 9. React Crash Project. | 2-Intermediate |
 | 10. Heroes App.         | 2-Intermediate |
 | 11. Toolkit Redux App.  | 2-Intermediate |
+| 12. Styled Components.  | 2-Intermediate |
 
 Gdpp
