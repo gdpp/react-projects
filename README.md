@@ -48,5 +48,6 @@ Here's the table of the projects stored in this repo, the projects are organized
 | 11. Toolkit Redux App.    | 2-Intermediate |
 | 12. Styled Components.    | 2-Intermediate |
 | 13. React Router Project. | 2-Intermediate |
+| 14. Zustand demo Project. | 2-Intermediate |
 
 Gdpp
