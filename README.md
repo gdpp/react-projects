@@ -4,11 +4,11 @@
 
 This repository contains the combinations of [Complete React Developer Zero To Mastery Course](https://www.udemy.com/course/complete-react-developer-zero-to-mastery/) and [React Zero Expert Course](https://www.udemy.com/course/react-cero-experto/) projects. Also contains a bunch of small projects that i made to practice the topics of ReactJs.
 
-## React Roadmap
+## React Roadmap.
 
 React is a library declarative and efficient
 
-### Temary
+### Temary.
 
 | Section                  | Topics                                                                                                                  |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------- |
@@ -18,7 +18,7 @@ React is a library declarative and efficient
 | **4.- Testing**          | React Testing library and Jest                                                                                          |
 | **5.- State Management** | Redux, Zustand                                                                                                          |
 
-### React Ecosystem
+### React Ecosystem.
 
 | Section                             | Topics                                         |
 | ----------------------------------- | ---------------------------------------------- |
@@ -29,25 +29,33 @@ React is a library declarative and efficient
 | **5.-Css**                          | Style Components, CSS in JS and Material UI    |
 | **6.- Mobile Apps**                 | React Native                                   |
 
-## Projects
+## Projects.
 
 Here's the table of the projects stored in this repo, the projects are organized based on the knowledge of topics required to complete them.
 
-| Name                      | Tier           |
-| ------------------------- | -------------- |
-| 1. Monster Rolodex.       | 1-Beginner     |
-| 2. Counter App.           | 1-Beginner     |
-| 3. Gif Library.           | 1-Beginner     |
-| 4. Hooks App.             | 1-Beginner     |
-| 5. Hooks Examples.        | 1-Beginner     |
-| 6. Tasks App.             | 1-Beginner     |
-| 7. Wheater App.           | 1-Beginner     |
-| 8. BookStore App.         | 1-Beginner     |
-| 9. React Crash Project.   | 2-Intermediate |
-| 10. Heroes App.           | 2-Intermediate |
-| 11. Toolkit Redux App.    | 2-Intermediate |
-| 12. Styled Components.    | 2-Intermediate |
-| 13. React Router Project. | 2-Intermediate |
-| 14. Zustand demo Project. | 2-Intermediate |
+| Name                          | Tier           |
+| ----------------------------- | -------------- |
+| 1. Monster Rolodex.           | 1-Beginner     |
+| 2. Counter App.               | 1-Beginner     |
+| 3. Gif Library.               | 1-Beginner     |
+| 4. Hooks App.                 | 1-Beginner     |
+| 5. Hooks Examples.            | 1-Beginner     |
+| 6. Tasks App.                 | 1-Beginner     |
+| 7. Wheater App.               | 1-Beginner     |
+| 8. BookStore App.             | 1-Beginner     |
+| 9. React Crash Project.       | 2-Intermediate |
+| 10. Heroes App.               | 2-Intermediate |
+| 11. Toolkit Redux App.        | 2-Intermediate |
+| 12. Styled Components.        | 2-Intermediate |
+| 13. React Router Project.     | 2-Intermediate |
+| 14. Zustand demo Project.     | 2-Intermediate |
+| 15. React Redux demo Project. | 2-Intermediate |
+
+### Start projects instructions.
+
+1. clone the repo.
+2. choose the project.
+3. `npm install`
+4. `npm run dev`
 
 Gdpp
