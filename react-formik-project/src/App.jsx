@@ -1,15 +1,16 @@
-import './App.css';
+import {ChakraProvider} from '@chakra-ui/react'
 
 // Components
 import YoutubeForm from "./components/YoutubeForm";
 
 function App() {
-  const hi = 1;  
 
   return (
-    <div className='App'>
-      <YoutubeForm />
-    </div>
+    <ChakraProvider>
+      <div className='App' style={{ display: 'flex', flexDirection: 'column', color: '#ffffff', backgroundColor: '#2a2a2a'}}>
+        <YoutubeForm />
+      </div>
+    </ChakraProvider>
   )
 }
 
