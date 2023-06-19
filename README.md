@@ -51,6 +51,7 @@ Here's the table of the projects stored in this repo, the projects are organized
 | 14. Zustand demo Project.     | 2-Intermediate |
 | 15. React Redux demo Project. | 2-Intermediate |
 | 16. React Formik Project.     | 2-Intermediate |
+| 17. Chakra UI Project.        | 2-Intermediate |
 
 
 ### Start projects instructions.
