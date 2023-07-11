@@ -22,7 +22,7 @@ React is a library declarative and efficient
 
 | Section                             | Topics                                         |
 | ----------------------------------- | ---------------------------------------------- |
-| **1.- React Router**                | ReactRouter V6                                 |
+| **1.- React Router**                | ReactRouter V6, json-server                    |
 | **2.- Server Side Rendering (SSR)** | NextJs                                         |
 | **3.- Static Site Generator (SSG)** | Gatsby, Astro and Next.js                      |
 | **4.- Http**                        | Apollo/GraphQl, Axios/Http and ReactQuery/Http |
@@ -52,7 +52,7 @@ Here's the table of the projects stored in this repo, the projects are organized
 | 15. React Redux demo Project. | 2-Intermediate |
 | 16. React Formik Project.     | 2-Intermediate |
 | 17. Chakra UI Project.        | 2-Intermediate |
-
+| 18. React Router in depth.    | 2-Intermediate |
 
 ### Start projects instructions.
 
