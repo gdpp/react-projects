@@ -8,13 +8,13 @@ import {
     Button,
 } from '@mui/material';
 
-import Link from 'wouter';
+import {Link} from 'wouter';
 
 import { useQuery } from '@tanstack/react-query';
 
 const fetchHotels = async () => {
-    const res = await fetch('http://localhost/3001/hotels');
-
+    const res = await fetch('http://localhost:3001/hotels');
+    
     if (!res.ok) {
         throw new Error('Network response was not OK');
     }
@@ -36,29 +36,29 @@ function HotelList() {
     if (error) {
         return <div>Error fetching Hotels! {error.message}</div>;
     }
+
     return (
         <>
             <Typography variant="h4" component="h2">
                 Booking App
             </Typography>
             <Stack spacing={2}>
-                {hotels.map((hotel) => (
-                    <Link key={hotel.id} href={`/hotel/${hotel.id}`}>
-                        <Card
-                            sx={{ maxWidth: 345, backgroundColor: '#E8E8E8' }}
-                        >
-                            <CardMedia
-                                sx={{ height: 140 }}
-                                image={hotel.image}
-                                title={hotel.name}
-                            >
+                {
+                    hotels.map(hotel => (
+                        <Link key={hotel.id} href={`/hotel/${hotel.id}`}>
+                            <Card sx={{ maxWidth: 345, backgroundColor: '#E8E8E8' }}>
+                                <CardMedia
+                                    image={hotel.img}
+                                    sx={{ height: 140 }}
+                                    title={hotel.name}
+                                />
                                 <CardContent>
                                     <Typography variant="h5" component="div">
                                         {hotel.name}
                                     </Typography>
                                     <Typography
-                                        variant="body2"
                                         color="text.secondary"
+                                        variant="body2"
                                     >
                                         {hotel.description}
                                     </Typography>
@@ -66,10 +66,10 @@ function HotelList() {
                                 <CardActions>
                                     <Button size="small">See Details</Button>
                                 </CardActions>
-                            </CardMedia>
-                        </Card>
-                    </Link>
-                ))}
+                            </Card>
+                        </Link>
+                    ))
+                }
             </Stack>
         </>
     );
